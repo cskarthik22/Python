@@ -27,6 +27,15 @@ def generator_cubes(n):
 for x in generator_cubes(10):
     print(x)
 
+k = generator_cubes(4)
+print(k)
+print(k.next())
+print(k.next())
+print(k.next())
+print(k.next())
+
+
+
 
 
 
