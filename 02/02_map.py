@@ -33,4 +33,6 @@ print(map(lambda x,y: x+y,a,b))
 
 print(map(lambda T: T**3,range(10)))
 
+print('\n'.join(map(str,list(a))))
+
 

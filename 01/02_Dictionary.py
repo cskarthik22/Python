@@ -14,6 +14,8 @@ dic['a'] = 'apple'
 print(dic)
 print(dic['a'])
 
+for i in dic.items():
+    print(i)
 print("===============================")
 
 numbers = { 1 : 'one', 2: 'two', 3 : 'three'}

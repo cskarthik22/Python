@@ -15,6 +15,10 @@ lis += ['two']
 lis += ['three']
 print(lis)
 
+for i in lis[2:]:
+    print(i)
+
+
 print('=================================')
 
 numbers = [1,2,3,'one','two','three']
