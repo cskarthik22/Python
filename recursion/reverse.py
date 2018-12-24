@@ -22,6 +22,26 @@ def reverse_new(strval):
 reverse('karthik','')
 print(reverse_new('karthik'))
 
+def swap(A,x,y):
+    temp = A[x]
+    A[x] = A[y]
+    A[y] = temp
+
+def reverse_02(s):
+    left = 0
+    right = len(s) - 1
+    while (left <= right):
+        swap(s,left,right)
+        left = left + 1
+        right = right - 1
+    return ''.join(s)
+s = 'karthik'
+print(list(s))
+print(reverse_02(list(s)))
+
+
+
+
 
 
 

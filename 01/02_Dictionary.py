@@ -2,7 +2,7 @@
 { } - Dictionary
 help(list)
 Mappings - Key, value pair
-keys(), items(), items(), 
+keys(), values(), items(), 
 
 '''
 
