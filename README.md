@@ -3,5 +3,6 @@
 - https://www.youtube.com/watch?v=9WV7juNmyE8
 - https://www.youtube.com/watch?v=Y7WMav9fmUo
 - https://www.youtube.com/watch?v=7SSYhuk5hmc
+- https://www.youtube.com/watch?v=GSk0tIjDT10 
 - https://www.dabeaz.com/python/concurrent2011/
 - 
